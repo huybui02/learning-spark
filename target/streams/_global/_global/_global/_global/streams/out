@@ -1,0 +1,5 @@
+[debug] [watch] [sparkex1 / Compile / run] Found inputs: E:\Azure-Spark\sparkex1\*.{java,scala},E:\Azure-Spark\sparkex1\src\main\java\**\*.{java,scala},E:\Azure-Spark\sparkex1\src\main\resources\**\*,E:\Azure-Spark\sparkex1\src\main\scala\**\*.{java,scala},E:\Azure-Spark\sparkex1\src\main\scala-2.11\**\*.{java,scala}
+[info] 1. Monitoring source files for sparkex1/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().
