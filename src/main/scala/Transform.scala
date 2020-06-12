@@ -12,7 +12,7 @@ object Transform {
     val containerName = "level1"
     val storageAccountName = "bahuystorageaccount"
     val fileName = "userdata1.parquet"
-    val accessKey = "N7DMPBwXH5/AH886DANLl3kS5lbt3eICVCAXZ6GDue68Jnh9u2K9M64Yx1DGy21kiq2PIKyf2njkg0rB1zlJLA=="
+    val accessKey = "<access key>"
     spark.sparkContext.hadoopConfiguration.set("fs.azure", "org.apache.hadoop.fs.azure.NativeAzureFileSystem")
     spark.sparkContext.hadoopConfiguration.set("fs.azure.account.key." + storageAccountName + ".blob.core.windows.net", accessKey)
 
